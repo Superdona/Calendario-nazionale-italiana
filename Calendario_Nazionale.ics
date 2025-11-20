@@ -73,4 +73,23 @@ SUMMARY:Italia - Norvegia
 DESCRIPTION:Qualificazioni Mondiali 2026
 LOCATION:Stadio Giuseppe Meazza, Via Piccolomini 5, 20151 Milano MI, Italia
 END:VEVENT
+BEGIN:VEVENT
+X-NOTE:Spareggi
+UID:match_Italia0007@nazionaleitaliana.it
+DTSTAMP:20250611T093827Z
+DTSTART;TZID=Europe/Rome:20260326T180000
+DTEND;TZID=Europe/Rome:20260326T194500
+SUMMARY:Italia - Irlanda del Nord
+DESCRIPTION:Playoff Qualificazioni Mondiali 2026 – 1° turno
+LOCATION:TBD
+END:VEVENT
+BEGIN:VEVENT
+UID:match_Italia0008@nazionaleitaliana.it
+DTSTAMP:20250611T093827Z
+DTSTART;TZID=Europe/Rome:20260331T180000
+DTEND;TZID=Europe/Rome:20260331T194500
+SUMMARY:Italia - Scozia
+DESCRIPTION:Playoff Qualificazioni Mondiali 2026 – 2° turno
+LOCATION:TBD
+END:VEVENT
 END:VCALENDAR
