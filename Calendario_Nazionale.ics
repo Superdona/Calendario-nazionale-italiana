@@ -95,7 +95,7 @@ DTSTART;TZID=Europe/Rome:20260326T204500
 DTEND;TZID=Europe/Rome:20260326T223000
 SUMMARY:Italia - Irlanda del Nord
 DESCRIPTION:Playoff Qualificazioni Mondiali 2026 – 1° turno
-LOCATION:Bergamo - Stadio di Bergamo
+LOCATION:Bergamo - New Balance Arena
 END:VEVENT
 
 BEGIN:VEVENT
@@ -110,3 +110,4 @@ LOCATION:TBD
 END:VEVENT
 
 END:VCALENDAR
+
